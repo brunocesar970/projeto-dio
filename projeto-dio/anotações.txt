@@ -1,0 +1,9 @@
+Aprendendo git
+
+alguns comandos mais utilizados até o momento:
+
+git clone
+git init
+git commit -m "comentario"
+git push
+git status
